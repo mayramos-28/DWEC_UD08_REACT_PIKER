@@ -1,0 +1,9 @@
+.box{
+   display: flex;
+   justify-content: flex-start;
+   gap: 1rem;
+ }
+
+.inputs{
+min-width: 80px;
+}
